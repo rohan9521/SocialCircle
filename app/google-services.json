@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839480336435",
+    "project_id": "socialcircle-992e7",
+    "storage_bucket": "socialcircle-992e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839480336435:android:01aac85c209446b741c346",
+        "android_client_info": {
+          "package_name": "com.example.socialcircle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839480336435-u722m0drpsf26jd466ppiolhr2nknqjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeRdJ8VZc-fNLYj_7Th82SQSQJQ6ZJTWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839480336435-u722m0drpsf26jd466ppiolhr2nknqjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
